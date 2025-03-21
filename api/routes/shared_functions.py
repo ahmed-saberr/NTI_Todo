@@ -8,7 +8,7 @@ import cloudinary
 import cloudinary.uploader
 import cloudinary.api
 
-# Cloudinary configuration
+# Cloudinary configuration 
 cloudinary.config(
     cloud_name='dxdouiqmx',
     api_key='744973961184718',
